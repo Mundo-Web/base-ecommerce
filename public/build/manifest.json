@@ -1,0 +1,245 @@
+{
+  "_CreateReactScript-qyXjqq-l.js": {
+    "file": "assets/CreateReactScript-qyXjqq-l.js",
+    "imports": [
+      "_index-GBzf7Cls.js",
+      "resources/js/Utils/CreateReactScript.jsx",
+      "_main-jzs2GwAM.js"
+    ]
+  },
+  "_ProductCard-3IWKSsu6.js": {
+    "file": "assets/ProductCard-3IWKSsu6.js",
+    "imports": [
+      "resources/js/components/Filter/FilterContainer.jsx",
+      "_arrayJoin-Fk5sgFcM.js",
+      "resources/js/components/Product/ProductCard.jsx"
+    ]
+  },
+  "__commonjsHelpers-4gQjN7DL.js": {
+    "file": "assets/_commonjsHelpers-4gQjN7DL.js"
+  },
+  "_arrayJoin-Fk5sgFcM.js": {
+    "file": "assets/arrayJoin-Fk5sgFcM.js",
+    "imports": [
+      "resources/js/components/Filter/FilterContainer.jsx",
+      "_index-GBzf7Cls.js"
+    ]
+  },
+  "_axios-_sX4vCAy.js": {
+    "file": "assets/axios-_sX4vCAy.js"
+  },
+  "_index-GBzf7Cls.js": {
+    "file": "assets/index-GBzf7Cls.js",
+    "imports": [
+      "resources/js/components/Filter/FilterContainer.jsx"
+    ]
+  },
+  "_main-jzs2GwAM.js": {
+    "file": "assets/main-jzs2GwAM.js",
+    "imports": [
+      "__commonjsHelpers-4gQjN7DL.js"
+    ]
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-thVH6xVm.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/Admin/Offers.jsx": {
+    "file": "assets/Offers-pz_uT6Au.js",
+    "imports": [
+      "resources/js/components/Filter/FilterContainer.jsx",
+      "_CreateReactScript-qyXjqq-l.js",
+      "_main-jzs2GwAM.js",
+      "resources/js/components/Offer/OfferCard.jsx",
+      "_arrayJoin-Fk5sgFcM.js",
+      "resources/js/components/Product/ProductCard.jsx",
+      "resources/js/components/Offer/OfferForm.jsx",
+      "__commonjsHelpers-4gQjN7DL.js",
+      "_index-GBzf7Cls.js",
+      "resources/js/Utils/CreateReactScript.jsx",
+      "_axios-_sX4vCAy.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/Admin/Offers.jsx"
+  },
+  "resources/js/Admin/Products.jsx": {
+    "file": "assets/Products-Jkhv-Emm.js",
+    "imports": [
+      "resources/js/components/Filter/FilterContainer.jsx",
+      "_CreateReactScript-qyXjqq-l.js",
+      "_main-jzs2GwAM.js",
+      "resources/js/components/Offer/OfferCard.jsx",
+      "resources/js/components/Product/ProductCard.jsx",
+      "resources/js/components/Offer/OfferForm.jsx",
+      "__commonjsHelpers-4gQjN7DL.js",
+      "_index-GBzf7Cls.js",
+      "resources/js/Utils/CreateReactScript.jsx",
+      "_axios-_sX4vCAy.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/Admin/Products.jsx"
+  },
+  "resources/js/Catalogo.jsx": {
+    "file": "assets/Catalogo-8Jy2pz0F.js",
+    "imports": [
+      "resources/js/components/Filter/FilterContainer.jsx",
+      "_CreateReactScript-qyXjqq-l.js",
+      "_ProductCard-3IWKSsu6.js",
+      "_main-jzs2GwAM.js",
+      "_arrayJoin-Fk5sgFcM.js",
+      "__commonjsHelpers-4gQjN7DL.js",
+      "_index-GBzf7Cls.js",
+      "resources/js/Utils/CreateReactScript.jsx",
+      "_axios-_sX4vCAy.js",
+      "resources/js/components/Product/ProductCard.jsx"
+    ],
+    "isEntry": true,
+    "src": "resources/js/Catalogo.jsx"
+  },
+  "resources/js/Ofertas.jsx": {
+    "file": "assets/Ofertas-qg0Rsb7W.js",
+    "imports": [
+      "resources/js/components/Filter/FilterContainer.jsx",
+      "_CreateReactScript-qyXjqq-l.js",
+      "_ProductCard-3IWKSsu6.js",
+      "_main-jzs2GwAM.js",
+      "_arrayJoin-Fk5sgFcM.js",
+      "__commonjsHelpers-4gQjN7DL.js",
+      "_index-GBzf7Cls.js",
+      "resources/js/Utils/CreateReactScript.jsx",
+      "_axios-_sX4vCAy.js",
+      "resources/js/components/Product/ProductCard.jsx"
+    ],
+    "isEntry": true,
+    "src": "resources/js/Ofertas.jsx"
+  },
+  "resources/js/Utils/CreateReactScript.jsx": {
+    "file": "assets/CreateReactScript-JKK_oT5p.js",
+    "imports": [
+      "_axios-_sX4vCAy.js",
+      "__commonjsHelpers-4gQjN7DL.js",
+      "_main-jzs2GwAM.js",
+      "resources/js/components/Filter/FilterContainer.jsx"
+    ],
+    "isEntry": true,
+    "src": "resources/js/Utils/CreateReactScript.jsx"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-dGvTjJ5y.css"
+    ],
+    "file": "assets/app-hU9lT6GY.js",
+    "imports": [
+      "_axios-_sX4vCAy.js",
+      "__commonjsHelpers-4gQjN7DL.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/components/Filter/FilterContainer.jsx": {
+    "file": "assets/FilterContainer-TykbAVkI.js",
+    "imports": [
+      "__commonjsHelpers-4gQjN7DL.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/components/Filter/FilterContainer.jsx"
+  },
+  "resources/js/components/Filter/FilterItem.jsx": {
+    "file": "assets/FilterItem-z-iOF4ss.js",
+    "imports": [
+      "resources/js/components/Filter/FilterContainer.jsx",
+      "__commonjsHelpers-4gQjN7DL.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/components/Filter/FilterItem.jsx"
+  },
+  "resources/js/components/Filter/FilterItemSelect2.jsx": {
+    "file": "assets/FilterItemSelect2-z-iOF4ss.js",
+    "imports": [
+      "resources/js/components/Filter/FilterContainer.jsx",
+      "__commonjsHelpers-4gQjN7DL.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/components/Filter/FilterItemSelect2.jsx"
+  },
+  "resources/js/components/Filter/FilterPagination.jsx": {
+    "file": "assets/FilterPagination-z-iOF4ss.js",
+    "imports": [
+      "resources/js/components/Filter/FilterContainer.jsx",
+      "__commonjsHelpers-4gQjN7DL.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/components/Filter/FilterPagination.jsx"
+  },
+  "resources/js/components/Offer/OfferCard.jsx": {
+    "file": "assets/OfferCard-gi8lWMWA.js",
+    "imports": [
+      "resources/js/components/Filter/FilterContainer.jsx",
+      "_main-jzs2GwAM.js",
+      "__commonjsHelpers-4gQjN7DL.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/components/Offer/OfferCard.jsx"
+  },
+  "resources/js/components/Offer/OfferForm.jsx": {
+    "file": "assets/OfferForm-gquhBaou.js",
+    "imports": [
+      "resources/js/components/Filter/FilterContainer.jsx",
+      "resources/js/components/Product/ProductCard.jsx",
+      "_main-jzs2GwAM.js",
+      "__commonjsHelpers-4gQjN7DL.js",
+      "_index-GBzf7Cls.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/components/Offer/OfferForm.jsx"
+  },
+  "resources/js/components/Product/H1.jsx": {
+    "file": "assets/H1-z-iOF4ss.js",
+    "imports": [
+      "resources/js/components/Filter/FilterContainer.jsx",
+      "__commonjsHelpers-4gQjN7DL.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/components/Product/H1.jsx"
+  },
+  "resources/js/components/Product/ProductCard.jsx": {
+    "css": [
+      "assets/ProductCard-C64i7G0l.css"
+    ],
+    "file": "assets/ProductCard-ssICDoe4.js",
+    "imports": [
+      "resources/js/components/Filter/FilterContainer.jsx",
+      "__commonjsHelpers-4gQjN7DL.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/components/Product/ProductCard.jsx"
+  },
+  "resources/js/components/Product/ProductContainer.jsx": {
+    "file": "assets/ProductContainer-z-iOF4ss.js",
+    "imports": [
+      "resources/js/components/Filter/FilterContainer.jsx",
+      "__commonjsHelpers-4gQjN7DL.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/components/Product/ProductContainer.jsx"
+  },
+  "resources/js/components/Product/ProductItem.jsx": {
+    "file": "assets/ProductItem-z-iOF4ss.js",
+    "imports": [
+      "resources/js/components/Filter/FilterContainer.jsx",
+      "__commonjsHelpers-4gQjN7DL.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/components/Product/ProductItem.jsx"
+  },
+  "resources/js/components/Product/ProductRow.jsx": {
+    "file": "assets/ProductRow-z-iOF4ss.js",
+    "imports": [
+      "resources/js/components/Filter/FilterContainer.jsx",
+      "__commonjsHelpers-4gQjN7DL.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/components/Product/ProductRow.jsx"
+  }
+}
